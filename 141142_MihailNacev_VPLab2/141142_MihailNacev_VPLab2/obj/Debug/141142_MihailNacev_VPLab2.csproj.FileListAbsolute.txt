@@ -1,0 +1,12 @@
+c:\users\nacev\documents\visual studio 2015\Projects\VPLab2\141142_MihailNacev_VPLab2\bin\Debug\141142_MihailNacev_VPLab2.exe.config
+c:\users\nacev\documents\visual studio 2015\Projects\VPLab2\141142_MihailNacev_VPLab2\bin\Debug\141142_MihailNacev_VPLab2.exe
+c:\users\nacev\documents\visual studio 2015\Projects\VPLab2\141142_MihailNacev_VPLab2\bin\Debug\141142_MihailNacev_VPLab2.pdb
+c:\users\nacev\documents\visual studio 2015\Projects\VPLab2\141142_MihailNacev_VPLab2\obj\Debug\141142_MihailNacev_VPLab2.exe
+c:\users\nacev\documents\visual studio 2015\Projects\VPLab2\141142_MihailNacev_VPLab2\obj\Debug\141142_MihailNacev_VPLab2.pdb
+c:\users\nacev\documents\visual studio 2015\Projects\VPLab2\141142_MihailNacev_VPLab2\obj\Debug\141142_MihailNacev_VPLab2.csprojResolveAssemblyReference.cache
+C:\Users\Nacev\Documents\Visual Studio 2015\Projects\141142_MihailNacev_VPLab2\141142_MihailNacev_VPLab2\bin\Debug\141142_MihailNacev_VPLab2.exe.config
+C:\Users\Nacev\Documents\Visual Studio 2015\Projects\141142_MihailNacev_VPLab2\141142_MihailNacev_VPLab2\obj\Debug\141142_MihailNacev_VPLab2.exe
+C:\Users\Nacev\Documents\Visual Studio 2015\Projects\141142_MihailNacev_VPLab2\141142_MihailNacev_VPLab2\obj\Debug\141142_MihailNacev_VPLab2.pdb
+C:\Users\Nacev\Documents\Visual Studio 2015\Projects\141142_MihailNacev_VPLab2\141142_MihailNacev_VPLab2\bin\Debug\141142_MihailNacev_VPLab2.exe
+C:\Users\Nacev\Documents\Visual Studio 2015\Projects\141142_MihailNacev_VPLab2\141142_MihailNacev_VPLab2\bin\Debug\141142_MihailNacev_VPLab2.pdb
+C:\Users\Nacev\Documents\Visual Studio 2015\Projects\141142_MihailNacev_VPLab2\141142_MihailNacev_VPLab2\obj\Debug\141142_MihailNacev_VPLab2.csprojResolveAssemblyReference.cache
