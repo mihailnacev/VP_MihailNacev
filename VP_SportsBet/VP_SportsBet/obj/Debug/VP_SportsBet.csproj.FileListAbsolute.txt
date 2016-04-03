@@ -1,0 +1,10 @@
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SportsBet\VP_SportsBet\bin\Debug\VP_SportsBet.exe.config
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SportsBet\VP_SportsBet\bin\Debug\VP_SportsBet.exe
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SportsBet\VP_SportsBet\bin\Debug\VP_SportsBet.pdb
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SportsBet\VP_SportsBet\obj\Debug\VP_SportsBet.csprojResolveAssemblyReference.cache
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SportsBet\VP_SportsBet\obj\Debug\VP_SportsBet.Form1.resources
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SportsBet\VP_SportsBet\obj\Debug\VP_SportsBet.Properties.Resources.resources
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SportsBet\VP_SportsBet\obj\Debug\VP_SportsBet.csproj.GenerateResource.Cache
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SportsBet\VP_SportsBet\obj\Debug\VP_SportsBet.exe
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SportsBet\VP_SportsBet\obj\Debug\VP_SportsBet.pdb
+C:\Users\Nacev\Documents\Visual Studio 2015\Projects\VP_SportsBet\VP_SportsBet\obj\Debug\VP_SportsBet.AddTeamForm.resources
