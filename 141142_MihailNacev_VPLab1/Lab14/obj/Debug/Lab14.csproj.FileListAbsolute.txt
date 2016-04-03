@@ -1,0 +1,5 @@
+C:\Users\Nacev\Documents\Visual Studio 2015\Projects\141142_MihailNacev_VPLab1\Lab14\bin\Debug\Lab14.exe.config
+C:\Users\Nacev\Documents\Visual Studio 2015\Projects\141142_MihailNacev_VPLab1\Lab14\bin\Debug\Lab14.exe
+C:\Users\Nacev\Documents\Visual Studio 2015\Projects\141142_MihailNacev_VPLab1\Lab14\bin\Debug\Lab14.pdb
+C:\Users\Nacev\Documents\Visual Studio 2015\Projects\141142_MihailNacev_VPLab1\Lab14\obj\Debug\Lab14.exe
+C:\Users\Nacev\Documents\Visual Studio 2015\Projects\141142_MihailNacev_VPLab1\Lab14\obj\Debug\Lab14.pdb

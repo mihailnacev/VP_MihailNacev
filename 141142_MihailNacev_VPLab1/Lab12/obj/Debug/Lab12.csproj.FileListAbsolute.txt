@@ -1,0 +1,5 @@
+c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab1\Lab12\bin\Debug\Lab12.exe.config
+c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab1\Lab12\bin\Debug\Lab12.exe
+c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab1\Lab12\bin\Debug\Lab12.pdb
+c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab1\Lab12\obj\Debug\Lab12.exe
+c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab1\Lab12\obj\Debug\Lab12.pdb
