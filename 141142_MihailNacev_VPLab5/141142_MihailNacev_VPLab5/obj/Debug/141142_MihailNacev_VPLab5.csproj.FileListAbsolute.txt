@@ -1,0 +1,9 @@
+c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab5\141142_MihailNacev_VPLab5\bin\Debug\141142_MihailNacev_VPLab5.exe.config
+c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab5\141142_MihailNacev_VPLab5\obj\Debug\141142_MihailNacev_VPLab5.csprojResolveAssemblyReference.cache
+c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab5\141142_MihailNacev_VPLab5\obj\Debug\_141142_MihailNacev_VPLab5.Form1.resources
+c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab5\141142_MihailNacev_VPLab5\obj\Debug\_141142_MihailNacev_VPLab5.Properties.Resources.resources
+c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab5\141142_MihailNacev_VPLab5\obj\Debug\141142_MihailNacev_VPLab5.csproj.GenerateResource.Cache
+c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab5\141142_MihailNacev_VPLab5\bin\Debug\141142_MihailNacev_VPLab5.exe
+c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab5\141142_MihailNacev_VPLab5\bin\Debug\141142_MihailNacev_VPLab5.pdb
+c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab5\141142_MihailNacev_VPLab5\obj\Debug\141142_MihailNacev_VPLab5.exe
+c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab5\141142_MihailNacev_VPLab5\obj\Debug\141142_MihailNacev_VPLab5.pdb
