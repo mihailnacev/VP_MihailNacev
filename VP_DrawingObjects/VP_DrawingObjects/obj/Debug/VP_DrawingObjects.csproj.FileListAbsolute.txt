@@ -1,0 +1,9 @@
+c:\users\nacev\documents\visual studio 2015\Projects\VP_DrawingObjects\VP_DrawingObjects\bin\Debug\VP_DrawingObjects.exe.config
+c:\users\nacev\documents\visual studio 2015\Projects\VP_DrawingObjects\VP_DrawingObjects\bin\Debug\VP_DrawingObjects.exe
+c:\users\nacev\documents\visual studio 2015\Projects\VP_DrawingObjects\VP_DrawingObjects\bin\Debug\VP_DrawingObjects.pdb
+c:\users\nacev\documents\visual studio 2015\Projects\VP_DrawingObjects\VP_DrawingObjects\obj\Debug\VP_DrawingObjects.csprojResolveAssemblyReference.cache
+c:\users\nacev\documents\visual studio 2015\Projects\VP_DrawingObjects\VP_DrawingObjects\obj\Debug\VP_DrawingObjects.Form1.resources
+c:\users\nacev\documents\visual studio 2015\Projects\VP_DrawingObjects\VP_DrawingObjects\obj\Debug\VP_DrawingObjects.Properties.Resources.resources
+c:\users\nacev\documents\visual studio 2015\Projects\VP_DrawingObjects\VP_DrawingObjects\obj\Debug\VP_DrawingObjects.csproj.GenerateResource.Cache
+c:\users\nacev\documents\visual studio 2015\Projects\VP_DrawingObjects\VP_DrawingObjects\obj\Debug\VP_DrawingObjects.exe
+c:\users\nacev\documents\visual studio 2015\Projects\VP_DrawingObjects\VP_DrawingObjects\obj\Debug\VP_DrawingObjects.pdb

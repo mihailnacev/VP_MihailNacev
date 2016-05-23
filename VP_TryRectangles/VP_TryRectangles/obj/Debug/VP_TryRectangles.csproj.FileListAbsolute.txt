@@ -1,0 +1,9 @@
+c:\users\nacev\documents\visual studio 2015\Projects\VP_TryRectangles\VP_TryRectangles\bin\Debug\VP_TryRectangles.exe.config
+c:\users\nacev\documents\visual studio 2015\Projects\VP_TryRectangles\VP_TryRectangles\bin\Debug\VP_TryRectangles.exe
+c:\users\nacev\documents\visual studio 2015\Projects\VP_TryRectangles\VP_TryRectangles\bin\Debug\VP_TryRectangles.pdb
+c:\users\nacev\documents\visual studio 2015\Projects\VP_TryRectangles\VP_TryRectangles\obj\Debug\VP_TryRectangles.csprojResolveAssemblyReference.cache
+c:\users\nacev\documents\visual studio 2015\Projects\VP_TryRectangles\VP_TryRectangles\obj\Debug\VP_TryRectangles.Form1.resources
+c:\users\nacev\documents\visual studio 2015\Projects\VP_TryRectangles\VP_TryRectangles\obj\Debug\VP_TryRectangles.Properties.Resources.resources
+c:\users\nacev\documents\visual studio 2015\Projects\VP_TryRectangles\VP_TryRectangles\obj\Debug\VP_TryRectangles.csproj.GenerateResource.Cache
+c:\users\nacev\documents\visual studio 2015\Projects\VP_TryRectangles\VP_TryRectangles\obj\Debug\VP_TryRectangles.exe
+c:\users\nacev\documents\visual studio 2015\Projects\VP_TryRectangles\VP_TryRectangles\obj\Debug\VP_TryRectangles.pdb

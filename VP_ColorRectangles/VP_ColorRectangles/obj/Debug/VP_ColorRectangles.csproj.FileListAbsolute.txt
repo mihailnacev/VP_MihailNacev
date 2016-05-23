@@ -1,0 +1,9 @@
+c:\users\nacev\documents\visual studio 2015\Projects\VP_ColorRectangles\VP_ColorRectangles\bin\Debug\VP_ColorRectangles.exe.config
+c:\users\nacev\documents\visual studio 2015\Projects\VP_ColorRectangles\VP_ColorRectangles\bin\Debug\VP_ColorRectangles.exe
+c:\users\nacev\documents\visual studio 2015\Projects\VP_ColorRectangles\VP_ColorRectangles\bin\Debug\VP_ColorRectangles.pdb
+c:\users\nacev\documents\visual studio 2015\Projects\VP_ColorRectangles\VP_ColorRectangles\obj\Debug\VP_ColorRectangles.csprojResolveAssemblyReference.cache
+c:\users\nacev\documents\visual studio 2015\Projects\VP_ColorRectangles\VP_ColorRectangles\obj\Debug\VP_ColorRectangles.Form1.resources
+c:\users\nacev\documents\visual studio 2015\Projects\VP_ColorRectangles\VP_ColorRectangles\obj\Debug\VP_ColorRectangles.Properties.Resources.resources
+c:\users\nacev\documents\visual studio 2015\Projects\VP_ColorRectangles\VP_ColorRectangles\obj\Debug\VP_ColorRectangles.csproj.GenerateResource.Cache
+c:\users\nacev\documents\visual studio 2015\Projects\VP_ColorRectangles\VP_ColorRectangles\obj\Debug\VP_ColorRectangles.exe
+c:\users\nacev\documents\visual studio 2015\Projects\VP_ColorRectangles\VP_ColorRectangles\obj\Debug\VP_ColorRectangles.pdb

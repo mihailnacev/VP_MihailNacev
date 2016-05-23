@@ -7,3 +7,6 @@ c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab3\1
 c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab3\141142_MihailNacev_VPLab3\obj\Debug\141142_MihailNacev_VPLab3.exe
 c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab3\141142_MihailNacev_VPLab3\obj\Debug\141142_MihailNacev_VPLab3.pdb
 C:\Users\Nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab3\141142_MihailNacev_VPLab3\obj\Debug\141142_MihailNacev_VPLab3.csprojResolveAssemblyReference.cache
+C:\Users\Nacev\Documents\GIT_WD\141142_MihailNacev_VPLab3\141142_MihailNacev_VPLab3\bin\Debug\141142_MihailNacev_VPLab3.exe.config
+C:\Users\Nacev\Documents\GIT_WD\141142_MihailNacev_VPLab3\141142_MihailNacev_VPLab3\obj\Debug\141142_MihailNacev_VPLab3.exe
+C:\Users\Nacev\Documents\GIT_WD\141142_MihailNacev_VPLab3\141142_MihailNacev_VPLab3\obj\Debug\141142_MihailNacev_VPLab3.pdb

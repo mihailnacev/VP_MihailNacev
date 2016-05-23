@@ -7,3 +7,6 @@ c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab5\1
 c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab5\141142_MihailNacev_VPLab5\bin\Debug\141142_MihailNacev_VPLab5.pdb
 c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab5\141142_MihailNacev_VPLab5\obj\Debug\141142_MihailNacev_VPLab5.exe
 c:\users\nacev\documents\visual studio 2015\Projects\141142_MihailNacev_VPLab5\141142_MihailNacev_VPLab5\obj\Debug\141142_MihailNacev_VPLab5.pdb
+C:\Users\Nacev\Documents\GIT_WD\141142_MihailNacev_VPLab5\141142_MihailNacev_VPLab5\bin\Debug\141142_MihailNacev_VPLab5.exe.config
+C:\Users\Nacev\Documents\GIT_WD\141142_MihailNacev_VPLab5\141142_MihailNacev_VPLab5\obj\Debug\141142_MihailNacev_VPLab5.exe
+C:\Users\Nacev\Documents\GIT_WD\141142_MihailNacev_VPLab5\141142_MihailNacev_VPLab5\obj\Debug\141142_MihailNacev_VPLab5.pdb

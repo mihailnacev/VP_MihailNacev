@@ -1,0 +1,9 @@
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SlidingBalls\VP_SlidingBalls\bin\Debug\VP_SlidingBalls.exe.config
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SlidingBalls\VP_SlidingBalls\bin\Debug\VP_SlidingBalls.exe
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SlidingBalls\VP_SlidingBalls\bin\Debug\VP_SlidingBalls.pdb
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SlidingBalls\VP_SlidingBalls\obj\Debug\VP_SlidingBalls.csprojResolveAssemblyReference.cache
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SlidingBalls\VP_SlidingBalls\obj\Debug\VP_SlidingBalls.Form1.resources
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SlidingBalls\VP_SlidingBalls\obj\Debug\VP_SlidingBalls.Properties.Resources.resources
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SlidingBalls\VP_SlidingBalls\obj\Debug\VP_SlidingBalls.csproj.GenerateResource.Cache
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SlidingBalls\VP_SlidingBalls\obj\Debug\VP_SlidingBalls.exe
+c:\users\nacev\documents\visual studio 2015\Projects\VP_SlidingBalls\VP_SlidingBalls\obj\Debug\VP_SlidingBalls.pdb

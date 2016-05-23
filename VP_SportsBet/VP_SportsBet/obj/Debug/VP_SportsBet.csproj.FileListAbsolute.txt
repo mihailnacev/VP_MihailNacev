@@ -8,3 +8,6 @@ c:\users\nacev\documents\visual studio 2015\Projects\VP_SportsBet\VP_SportsBet\o
 c:\users\nacev\documents\visual studio 2015\Projects\VP_SportsBet\VP_SportsBet\obj\Debug\VP_SportsBet.exe
 c:\users\nacev\documents\visual studio 2015\Projects\VP_SportsBet\VP_SportsBet\obj\Debug\VP_SportsBet.pdb
 C:\Users\Nacev\Documents\Visual Studio 2015\Projects\VP_SportsBet\VP_SportsBet\obj\Debug\VP_SportsBet.AddTeamForm.resources
+C:\Users\Nacev\Documents\GIT_WD\VP_SportsBet\VP_SportsBet\bin\Debug\VP_SportsBet.exe.config
+C:\Users\Nacev\Documents\GIT_WD\VP_SportsBet\VP_SportsBet\obj\Debug\VP_SportsBet.exe
+C:\Users\Nacev\Documents\GIT_WD\VP_SportsBet\VP_SportsBet\obj\Debug\VP_SportsBet.pdb

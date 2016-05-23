@@ -1,0 +1,8 @@
+c:\users\nacev\documents\visual studio 2015\Projects\VP_LettersMaster\VP_LettersMaster\bin\Debug\VP_LettersMaster.exe.config
+c:\users\nacev\documents\visual studio 2015\Projects\VP_LettersMaster\VP_LettersMaster\obj\Debug\VP_LettersMaster.Form1.resources
+c:\users\nacev\documents\visual studio 2015\Projects\VP_LettersMaster\VP_LettersMaster\obj\Debug\VP_LettersMaster.Properties.Resources.resources
+c:\users\nacev\documents\visual studio 2015\Projects\VP_LettersMaster\VP_LettersMaster\obj\Debug\VP_LettersMaster.csproj.GenerateResource.Cache
+c:\users\nacev\documents\visual studio 2015\Projects\VP_LettersMaster\VP_LettersMaster\bin\Debug\VP_LettersMaster.exe
+c:\users\nacev\documents\visual studio 2015\Projects\VP_LettersMaster\VP_LettersMaster\bin\Debug\VP_LettersMaster.pdb
+c:\users\nacev\documents\visual studio 2015\Projects\VP_LettersMaster\VP_LettersMaster\obj\Debug\VP_LettersMaster.exe
+c:\users\nacev\documents\visual studio 2015\Projects\VP_LettersMaster\VP_LettersMaster\obj\Debug\VP_LettersMaster.pdb
