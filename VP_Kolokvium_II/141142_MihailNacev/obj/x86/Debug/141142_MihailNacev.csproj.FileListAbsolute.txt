@@ -1,0 +1,25 @@
+c:\users\141142\documents\visual studio 2010\Projects\141142_MihailNacev\141142_MihailNacev\bin\Debug\141142_MihailNacev.exe
+c:\users\141142\documents\visual studio 2010\Projects\141142_MihailNacev\141142_MihailNacev\bin\Debug\141142_MihailNacev.pdb
+c:\users\141142\documents\visual studio 2010\Projects\141142_MihailNacev\141142_MihailNacev\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\141142\documents\visual studio 2010\Projects\141142_MihailNacev\141142_MihailNacev\obj\x86\Debug\_141142_MihailNacev.Form1.resources
+c:\users\141142\documents\visual studio 2010\Projects\141142_MihailNacev\141142_MihailNacev\obj\x86\Debug\_141142_MihailNacev.Properties.Resources.resources
+c:\users\141142\documents\visual studio 2010\Projects\141142_MihailNacev\141142_MihailNacev\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\141142\documents\visual studio 2010\Projects\141142_MihailNacev\141142_MihailNacev\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\141142\documents\visual studio 2010\Projects\141142_MihailNacev\141142_MihailNacev\obj\x86\Debug\141142_MihailNacev.exe
+c:\users\141142\documents\visual studio 2010\Projects\141142_MihailNacev\141142_MihailNacev\obj\x86\Debug\141142_MihailNacev.pdb
+C:\Users\Nacev\Desktop\141142_MihailNacev\141142_MihailNacev\obj\x86\Debug\141142_MihailNacev.exe
+C:\Users\Nacev\Desktop\141142_MihailNacev\141142_MihailNacev\obj\x86\Debug\141142_MihailNacev.pdb
+C:\Users\Nacev\Desktop\141142_MihailNacev\141142_MihailNacev\bin\Debug\141142_MihailNacev.exe
+C:\Users\Nacev\Desktop\141142_MihailNacev\141142_MihailNacev\bin\Debug\141142_MihailNacev.pdb
+C:\Users\Nacev\Desktop\141142_MihailNacev\141142_MihailNacev\obj\x86\Debug\141142_MihailNacev.csprojResolveAssemblyReference.cache
+C:\Users\Nacev\Desktop\141142_MihailNacev\141142_MihailNacev\obj\x86\Debug\_141142_MihailNacev.Form1.resources
+C:\Users\Nacev\Desktop\141142_MihailNacev\141142_MihailNacev\obj\x86\Debug\_141142_MihailNacev.Properties.Resources.resources
+C:\Users\Nacev\Desktop\141142_MihailNacev\141142_MihailNacev\obj\x86\Debug\141142_MihailNacev.csproj.GenerateResource.Cache
+C:\Users\Nacev\Desktop\IV Semestar\Vizuelno programiranje\VP_Kolokvium_II\141142_MihailNacev\obj\x86\Debug\141142_MihailNacev.exe
+C:\Users\Nacev\Desktop\IV Semestar\Vizuelno programiranje\VP_Kolokvium_II\141142_MihailNacev\obj\x86\Debug\141142_MihailNacev.pdb
+C:\Users\Nacev\Desktop\IV Semestar\Vizuelno programiranje\VP_Kolokvium_II\141142_MihailNacev\bin\Debug\141142_MihailNacev.exe
+C:\Users\Nacev\Desktop\IV Semestar\Vizuelno programiranje\VP_Kolokvium_II\141142_MihailNacev\bin\Debug\141142_MihailNacev.pdb
+C:\Users\Nacev\Desktop\IV Semestar\Vizuelno programiranje\VP_Kolokvium_II\141142_MihailNacev\obj\x86\Debug\141142_MihailNacev.csprojResolveAssemblyReference.cache
+C:\Users\Nacev\Desktop\IV Semestar\Vizuelno programiranje\VP_Kolokvium_II\141142_MihailNacev\obj\x86\Debug\_141142_MihailNacev.Form1.resources
+C:\Users\Nacev\Desktop\IV Semestar\Vizuelno programiranje\VP_Kolokvium_II\141142_MihailNacev\obj\x86\Debug\_141142_MihailNacev.Properties.Resources.resources
+C:\Users\Nacev\Desktop\IV Semestar\Vizuelno programiranje\VP_Kolokvium_II\141142_MihailNacev\obj\x86\Debug\141142_MihailNacev.csproj.GenerateResource.Cache

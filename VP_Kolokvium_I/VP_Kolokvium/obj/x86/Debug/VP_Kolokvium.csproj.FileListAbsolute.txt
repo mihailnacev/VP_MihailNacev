@@ -1,0 +1,17 @@
+c:\users\141142\documents\visual studio 2010\Projects\VP_Kolokvium\VP_Kolokvium\bin\Debug\VP_Kolokvium.exe
+c:\users\141142\documents\visual studio 2010\Projects\VP_Kolokvium\VP_Kolokvium\bin\Debug\VP_Kolokvium.pdb
+c:\users\141142\documents\visual studio 2010\Projects\VP_Kolokvium\VP_Kolokvium\obj\x86\Debug\VP_Kolokvium.AddStudent.resources
+c:\users\141142\documents\visual studio 2010\Projects\VP_Kolokvium\VP_Kolokvium\obj\x86\Debug\VP_Kolokvium.Form1.resources
+c:\users\141142\documents\visual studio 2010\Projects\VP_Kolokvium\VP_Kolokvium\obj\x86\Debug\VP_Kolokvium.Properties.Resources.resources
+c:\users\141142\documents\visual studio 2010\Projects\VP_Kolokvium\VP_Kolokvium\obj\x86\Debug\VP_Kolokvium.csproj.GenerateResource.Cache
+c:\users\141142\documents\visual studio 2010\Projects\VP_Kolokvium\VP_Kolokvium\obj\x86\Debug\VP_Kolokvium.exe
+c:\users\141142\documents\visual studio 2010\Projects\VP_Kolokvium\VP_Kolokvium\obj\x86\Debug\VP_Kolokvium.pdb
+C:\Users\Nacev\Downloads\VP_Kolokvium\VP_Kolokvium\obj\x86\Debug\VP_Kolokvium.exe
+C:\Users\Nacev\Downloads\VP_Kolokvium\VP_Kolokvium\obj\x86\Debug\VP_Kolokvium.pdb
+C:\Users\Nacev\Downloads\VP_Kolokvium\VP_Kolokvium\bin\Debug\VP_Kolokvium.exe
+C:\Users\Nacev\Downloads\VP_Kolokvium\VP_Kolokvium\bin\Debug\VP_Kolokvium.pdb
+C:\Users\Nacev\Downloads\VP_Kolokvium\VP_Kolokvium\obj\x86\Debug\VP_Kolokvium.csprojResolveAssemblyReference.cache
+C:\Users\Nacev\Downloads\VP_Kolokvium\VP_Kolokvium\obj\x86\Debug\VP_Kolokvium.AddStudent.resources
+C:\Users\Nacev\Downloads\VP_Kolokvium\VP_Kolokvium\obj\x86\Debug\VP_Kolokvium.Form1.resources
+C:\Users\Nacev\Downloads\VP_Kolokvium\VP_Kolokvium\obj\x86\Debug\VP_Kolokvium.Properties.Resources.resources
+C:\Users\Nacev\Downloads\VP_Kolokvium\VP_Kolokvium\obj\x86\Debug\VP_Kolokvium.csproj.GenerateResource.Cache
